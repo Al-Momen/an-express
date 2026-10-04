@@ -1,0 +1,19 @@
+application/vendor
+application/node_modules
+.vscode
+.claude
+
+# Secrets and environment
+application/.env
+
+# Database dumps
+database/
+*.sql
+*.zip
+
+# Laravel runtime files
+application/storage/logs/*
+application/storage/debugbar/*
+application/storage/framework/cache/data/*
+application/storage/framework/sessions/*
+application/storage/framework/views/*

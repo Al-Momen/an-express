@@ -1,0 +1,455 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Hero Section",
+        "content": {
+            "badge_text": "text",
+            "badge_icon": "icon",
+            "heading": "text",
+            "highlight_text": "text",
+            "heading_after": "text",
+            "sub_heading": "textarea",
+            "button_one_text": "text",
+            "button_one_link": "text",
+            "button_two_text": "text",
+            "button_two_link": "text",
+            "cta_text": "text",
+            "cta_button_one_text": "text",
+            "cta_button_one_link": "text",
+            "cta_button_two_text": "text",
+            "cta_button_two_link": "text",
+            "images": {
+                "banner_image": {
+                    "size": "700x700"
+                }
+            }
+        },
+        "element": {
+            "counter_value": "text",
+            "title": "text",
+            "modal": false
+        }
+    },
+    "brand_strip": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Trust Strip",
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "modal": true
+        }
+    },
+    "service": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Services Section",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "description": "textarea",
+            "modal": true
+        }
+    },
+    "about": {
+        "builder": true,
+        "no_selection": false,
+        "name": "About Section",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "description": "textarea",
+            "button_text": "text",
+            "button_link": "text",
+            "badge_icon": "icon",
+            "badge_count": "text",
+            "badge_text": "text",
+            "images": {
+                "about_image": {
+                    "size": "800x800"
+                }
+            }
+        },
+        "element": {
+            "title": "text",
+            "modal": false
+        }
+    },
+    "how_it_works": {
+        "builder": true,
+        "no_selection": false,
+        "name": "How It Works",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "serial": "text",
+            "icon": "icon",
+            "title": "text",
+            "description": "textarea",
+            "modal": true
+        }
+    },
+    "why_choose_us": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Why Choose Us",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "badge_icon": "icon",
+            "badge_count": "text",
+            "badge_text": "text",
+            "images": {
+                "why_image": {
+                    "size": "800x800"
+                }
+            }
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "description": "textarea",
+            "modal": true
+        }
+    },
+    "counter": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Counter Banner",
+        "element": {
+            "icon": "icon",
+            "counter_value": "text",
+            "title": "text",
+            "modal": true
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Testimonial Section",
+        "content": {
+            "tag": "text",
+            "heading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "120x120"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "review": "textarea",
+            "modal": false
+        }
+    },
+    "blog": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Blog Section",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea",
+            "button_text": "text",
+            "button_link": "text"
+        },
+        "element": {
+            "images": {
+                "blog_image": {
+                    "size": "1100x740",
+                    "thumb": "475x320"
+                }
+            },
+            "category": "text",
+            "title": "text",
+            "meta_title": "text",
+            "meta_description": "textarea",
+            "quote": "textarea",
+            "description": "textarea-rich",
+            "modal": false
+        }
+    },
+    "faq": {
+        "builder": true,
+        "no_selection": false,
+        "name": "FAQ Section",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea-rich",
+            "modal": false
+        }
+    },
+    "cta": {
+        "builder": true,
+        "no_selection": false,
+        "name": "CTA Banner",
+        "content": {
+            "heading": "text",
+            "sub_heading": "textarea",
+            "button_icon": "icon",
+            "button_text": "text",
+            "button_link": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "policy_pages": {
+        "builder": false,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-rich",
+            "meta_title": "text",
+            "meta_description": "textarea",
+            "modal": false
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "top_heading": "text",
+            "heading": "text",
+            "short_description": "text",
+            "button_text": "text",
+            "short_details": "text",
+            "email_address": "text",
+            "contact_details": "text",
+            "contact_number": "text",
+            "support_number": "text",
+            "latitude": "text",
+            "longitude": "text",
+            "website_footer": "textarea-rich",
+            "second_email": "text",
+            "working_hours": "text",
+            "form_heading": "text",
+            "form_sub_heading": "text",
+            "map_query": "text",
+            "map_badge": "text"
+        }
+    },
+    "header": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Header / Top Bar",
+        "content": {
+            "address": "text",
+            "booking_button_text": "text",
+            "booking_button_link": "text"
+        }
+    },
+    "footer": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer",
+        "content": {
+            "description": "textarea",
+            "newsletter_heading": "text",
+            "newsletter_text": "text",
+            "copyright": "text"
+        }
+    },
+    "footer_link_one": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Links - Column One",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "link": "text",
+            "modal": true
+        }
+    },
+    "footer_link_two": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer Links - Column Two",
+        "content": {
+            "heading": "text"
+        },
+        "element": {
+            "title": "text",
+            "link": "text",
+            "modal": true
+        }
+    },
+    "our_story": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Our Story Section",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "description": "textarea",
+            "description_two": "textarea",
+            "button_text": "text",
+            "button_link": "text",
+            "badge_icon": "icon",
+            "badge_count": "text",
+            "badge_text": "text",
+            "images": {
+                "story_image": {
+                    "size": "800x800"
+                }
+            }
+        },
+        "element": {
+            "title": "text",
+            "modal": false
+        }
+    },
+    "mission_vision": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Mission & Vision",
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "description": "textarea",
+            "modal": true
+        }
+    },
+    "team": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Team Section",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "400x400"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "facebook_url": "text",
+            "twitter_url": "text",
+            "linkedin_url": "text",
+            "modal": false
+        }
+    },
+    "blog_sidebar": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Blog Sidebar",
+        "content": {
+            "cta_icon": "icon",
+            "cta_heading": "text",
+            "cta_text": "textarea",
+            "cta_button_text": "text",
+            "cta_button_link": "text"
+        }
+    },
+    "contact_info": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Info Strip",
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "details": "textarea",
+            "modal": true
+        }
+    },
+    "contact_faq": {
+        "builder": true,
+        "no_selection": false,
+        "name": "Contact FAQ",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea-rich",
+            "modal": false
+        }
+    },
+    "pickup_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Pickup Request Page",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea",
+            "side_icon": "icon",
+            "side_heading": "text",
+            "side_text": "textarea",
+            "side_phone": "text"
+        },
+        "element": {
+            "title": "text",
+            "modal": false
+        }
+    },
+    "quote_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Get A Quote Page",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea",
+            "side_icon": "icon",
+            "side_heading": "text",
+            "side_text": "textarea",
+            "side_phone": "text"
+        },
+        "element": {
+            "title": "text",
+            "modal": false
+        }
+    },
+    "book_page": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Online Booking Page",
+        "content": {
+            "tag": "text",
+            "heading": "text",
+            "sub_heading": "textarea",
+            "side_icon": "icon",
+            "side_heading": "text",
+            "side_text": "textarea",
+            "side_phone": "text"
+        },
+        "element": {
+            "title": "text",
+            "modal": false
+        }
+    }
+}
